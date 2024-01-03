@@ -116,5 +116,3 @@ Il est impératif de suivre l'ordre d'exécution des tâches pour assurer une mi
 
 9. **Utilisation du Compte Administrateur :**
    - Connectez-vous avec les identifiants administrateur (admin:admin) pré-créés dans la base de données.
-
-Suivez ces étapes pour garantir le bon fonctionnement du projet et assurez-vous de respecter l'ordre d'exécution des tâches pour une évaluation optimale.
